@@ -1,4 +1,4 @@
-# Anime Rating Prediction Project
+# Data-Driven Prediction of DC Current in an Inverter-Free Photovoltaic Battery System for Telecommunications Antenna Applications
 
 This repository contains two Jupyter notebooks:
 
